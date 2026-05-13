@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Mohamed Hatem 👋
+## AI Student at ERU | Machine Learning & Computer Vision Engineer
 
-<!--
-**MHATEM74/MHATEM74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Top Technical Skills
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,opencv,dart,flutter,java,cpp,figma,aws,git" />
+</p>
 
-Here are some ideas to get you started:
+### 📊 GitHub Stats
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MHATEM74&show_icons=true&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤝 Connect with me
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/Mohamed-Hatem)
