@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=AI+Engineer;Follow+to+get+New+Updates" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=42FF21&center=true&vCenter=true&width=500&lines=AI+Engineer;Follow+to+get+New+Updates" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -8,22 +8,28 @@
 
 ### 🤝 Connect with me
 <p align="left">
-<a href="https://www.facebook.com/share/18n9wTYpZh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamedhatem" height="30" width="40" /></a>
-<a href="https://www.instagram.com/mohamedhatem_74?igsh=MXM3MWZxajE5dzEwdA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamedhatem_74" height="30" width="40" /></a>
-<a href="mailto:mhatem7000@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="mhatem7000" height="30" width="40" /></a>
-<a href="https://wa.me/201285844801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="01285844801" height="30" width="40" /></a>
+<a href="https://www.facebook.com/share/18n9wTYpZh/" target="blank"><img align="center" src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" /></a>
+<a href="https://www.instagram.com/mohamedhatem_74?igsh=MXM3MWZxajE5dzEwdA==" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
+<a href="mailto:mhatem7000@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
+<a href="https://wa.me/201285844801" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" /></a>
+<a href="https://www.linkedin.com/in/Mohamed-Hatem" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 </p>
 
 ---
 
 ### 🛠 Top Technical Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,opencv,dart,flutter,java,cpp,figma,aws,git" />
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,opencv,dart,flutter,java,cpp,c,html,css,js,mysql,figma,aws,git,github,linux,codepen,vscode,postman,pnpm" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats & Trophies
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MHATEM74&show_icons=true&theme=dark&hide_border=true" />
-  <img
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MHATEM74&show_icons=true&theme=dark&hide_border=false" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHATEM74&layout=compact&theme=dark&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MHATEM74&theme=darkhub&no-bg=false&margin-w=15" />
+</p>
