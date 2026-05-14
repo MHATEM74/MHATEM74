@@ -23,11 +23,12 @@
 <a href="https://www.linkedin.com/in/Mohamed-Hatem" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 </p>
 
+----
 ---
 
 ### 🛠 Top Technical Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,opencv,dart,flutter,java,cpp,c,html,css,js,mysql,figma,aws,git,github,linux,vscode,postman,notion,raspberrypi,ts,react,docker,gcp" />
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,opencv,dart,flutter,java,cpp,c,mysql,figma,aws,git,github,linux,vscode,postman,notion,html,css,js,pnpm,raspberrypi,react,docker" />
 </p>
 
 ---
