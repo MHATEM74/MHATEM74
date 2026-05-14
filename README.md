@@ -1,3 +1,5 @@
+<h1 align="center">Hi, I'm Mohamed Hatem</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=53A6FF&center=true&vCenter=true&width=500&lines=AI+Engineer" alt="Typing SVG" />
   <br>
@@ -23,7 +25,6 @@
 <a href="https://www.linkedin.com/in/Mohamed-Hatem" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 </p>
 
-----
 ---
 
 ### 🛠 Top Technical Skills
